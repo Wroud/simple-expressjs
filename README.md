@@ -7,6 +7,10 @@ Run tests
 ```sh
 npm test
 ```
+Build sources
+```sh
+npm run build
+```
 Run server
 ```sh
 npm start
